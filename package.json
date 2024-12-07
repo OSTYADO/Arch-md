@@ -1,12 +1,12 @@
 {
-    "name": "archmd",
+    "name": "ostyadomd",
     "version": "1.0.0",
     "description": "ArchPatch",
     "main": "index.js",
     "scripts": {
     "start": "node main.js"
   },
-  "author": "Ednut",
+  "author": "Ostyado",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@colors/colors": "1.5.0",
